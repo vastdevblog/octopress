@@ -2,7 +2,7 @@
 layout: post
 title: "Rotating to show different iOS views"
 date: 2012-02-12 20:11
-comments: true
+comments: false
 categories: iOS
 author: Alex Moffat <alex.moffat@gmail.com>
 ---
