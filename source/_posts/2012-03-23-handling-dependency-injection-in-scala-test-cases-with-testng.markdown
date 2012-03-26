@@ -61,5 +61,5 @@ The bindings in the ExampleTestModule override those for the same key in the pro
 This lets you replace just the dependencies you need with test ones without having to replicate the complete production configuration. 
 Backticks must be used around override and with because they are reserved words in Scala.
 
-To use the dependencies you just need to add the `@Inject` annotation to the test class.
-You can inject values for variables, as in the example, or values for test method parameters, for instance `def notUnique(@Inject() idGenerator: UniqueIdGenerator)`, or into the constructor, for instance, `class ExampleTest @Inject() (idGenerator: UniqueIdGenerator)`.
+To use the dependencies you just need to add the `@Inject` annotation to the test class to inject values for variables, as in the example. 
+Unfortunately you can't inject parameters into test methods using Guice, you have to use TestNG's facilities for that.
