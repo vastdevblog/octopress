@@ -14,6 +14,8 @@ The two interesting points are
 * How in Guice do you override production dependencies with test ones when you want to execute a test case?
 * How do you use TestNG with Scala?
 
+<!-- more -->
+
 Here's a simple example showing how this works.
 
 ``` scala 
