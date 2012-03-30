@@ -73,4 +73,4 @@ The first idea was to initially hide the select element (with CSS) and then make
 
 In addition to being very simple this has the advantage of being a pure CSS solution and works on all browsers that I could test on (including Internet Explorer 6). I also verified this was compliant with [HTML5](http://www.w3.org/TR/html5/the-noscript-element.html#the-noscript-element).
 
-While I'm not making the argument that this was a very good use case to begin with I hope this can be useful a useful trick for others - certainly I'll add it to my own bad of tricks.
+While I'm not making the argument that this was a very good use case to begin with I hope this can be useful a useful trick for others - certainly I'll add it to my own bag of tricks.
