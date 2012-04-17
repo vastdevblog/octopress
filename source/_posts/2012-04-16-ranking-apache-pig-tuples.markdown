@@ -3,7 +3,8 @@ layout: post
 title: "Ranking Apache Pig Tuples with a Python UDF"
 date: 2012-04-16 15:46
 comments: true
-categories: 
+categories: [hadoop, pig, python]
+author: Josh Levy, Ph.D.
 ---
 
 The [ORDER ... BY](http://pig.apache.org/docs/r0.9.2/basic.html#order-by) statement in Pig Latin sorts the ```tuples``` in a ```bag```.
