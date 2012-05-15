@@ -20,9 +20,9 @@ This really wasn't ideal for a couple of reasons:
 
 Because of the large number of unit tests (hundreds of them) it just wasn't an option to list each unit test individually in either code or within a TestNG `testng.xml` file (although one could in theory generate this file at build time). 
 
-So the week-end I decided that it was time to take another look at this.
+So over the week-end I decided that it was time to take another look at this.
 
-I immediately thought the TestNG `@DataProvider` annotation was a great fit our use case, where we "feed" a test payload and expected result pair for each test so I implemented the following:
+I immediately thought the TestNG `@DataProvider` annotation was a great fit for our use case, where we "feed" a test payload and expected result pair for each test so I implemented the following:
 
 ``` java
 public class CarsAndTravelIT {
@@ -185,7 +185,7 @@ With those changes the JUnit XML report is now:
   <testcase time="..." classname="..." name="carsTestSuite-input2.xml"/>
   <testcase time="..." classname="..." name="carsTestSuite-input3.xml"/>
   <testcase time="..." classname="..." name="travelTestSuite-input1.xml"/>
-  <testcase time="..." classname="..." name="travelTestSuite-input.2.xml"/>
+  <testcase time="..." classname="..." name="travelTestSuite-input2.xml"/>
 </testsuite>  
 ```
 
