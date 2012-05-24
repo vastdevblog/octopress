@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black Box Testing Middleware Services"
-date: 2012-05-24 14:14
+date: 2012-05-25 14:14
 comments: true
 categories: [testing]
 author: Jason Baker <jbaker@vast.com>
