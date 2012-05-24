@@ -68,10 +68,10 @@ public class VastHttpClient extends HttpClient {
     }
 
     public static final String VAST_HTTP_CLIENT_SYSTEM_PROPERTY = "vast.http.client.class.name";
-    public static final String DEFAULT_HTTP_CLIENT_CLASS_NAME = "com.vast.leads.util.mock.http.VastHttpClient";
+    public static final String DEFAULT_HTTP_CLIENT_CLASS_NAME = "com.vast.mtf.mock.http.VastHttpClient";
 
     public static final String VAST_HTTP_METHOD_WRAPPER_SYSTEM_PROPERTY = "vast.http.wrapper.class.name";
-    public static final String DEFAULT_HTTP_METHOD_WRAPPER_CLASS_NAME = "com.vast.leads.util.mock.http.VastMethodWrapper";
+    public static final String DEFAULT_HTTP_METHOD_WRAPPER_CLASS_NAME = "com.vast.mtf.mock.http.VastMethodWrapper";
 
     protected static Object createClassInstance(String className, String defaultClassName, String description) {
         if (StringUtils.isEmpty(className)) {
