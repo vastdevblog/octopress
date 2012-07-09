@@ -4,7 +4,7 @@ title: "Visualizing Model Search"
 date: 2012-07-09 09:37
 comments: true
 categories: 
-- analysis
+- analytics
 author: David Franke, Ph.D.
 ---
 
