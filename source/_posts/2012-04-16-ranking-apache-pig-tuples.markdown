@@ -3,7 +3,7 @@ layout: post
 title: "Ranking Apache Pig Tuples with a Python UDF"
 date: 2012-04-16 15:46
 comments: true
-categories: [hadoop, pig, python]
+categories: [analytics, hadoop, pig, python]
 author: Josh Levy, Ph.D.
 ---
 
