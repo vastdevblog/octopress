@@ -11,7 +11,7 @@ More than 100,000,000 people tuned in to watch Super Bowl XLVII.   In this blog 
 
 <!-- more -->
 
-On February 5, 2012, the day of Super Bowl XLVI, Vast observed an interesting pattern in our web traffic.  In the early part of the day, traffic was significantly higher than Sunday traffic in January of that year.  As might be expected, as pre-game festivities ramped up, our traffic from traditional computers plummeted.  Traffic from iPhones remained high as car shoppers chose to watch the game and surf on their phones simultaneously.  Traffic from iPads trended near its historical average.  After the game, traffic from traditional computers rose above the historical trend again. 
+On February 5, 2012, the day of Super Bowl XLVI, Vast observed an interesting pattern in our web traffic.  In the early part of the day, traffic was significantly higher than Sunday traffic in January of that year.  As might be expected, as pre-game festivities ramped up, our traffic from traditional computers (desktops and laptops) plummeted.  Traffic from iPhones remained high as car shoppers chose to watch the game and surf on their phones simultaneously.  Traffic from iPads trended near its historical average.  After the game, traffic from traditional computers rose above the historical trend again. 
 
 ![2012 Superbowl Traffic](/images/2013-02-04-superbowl-2012.png)
 
